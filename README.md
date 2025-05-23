@@ -1,10 +1,15 @@
 <h1 align="center">Hey 👋, I'm Manasvi Deshmukh</h1>
-<h3 align="center">AI Engineer | ML Researcher | Tech Innovator | Classical Dancer 💃</h3>
+<h3 align="center">AI Engineer | ML Researcher | Tech Tinker </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Crafting+Tech+that+Matters.;AI-driven+Solutions+for+Impact.;Coding+Innovation+Into+Reality." alt="Typing SVG" />
 </p>
 
+---
+- 🖥 AI Engineer sharing about my journey and learnings in tech.
+- 🏫 Studying Computer Science at MITWPU, Pune.
+- 💭 Currently learning about data analytics, Agentic AI and Copilot Integration in code.
+  
 ---
 
 ### 🔭 Signature Projects
@@ -59,15 +64,8 @@
 
 ### 📫 Let’s Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manasvi-deshmukh)  
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manasvi.deshmukh2004@gmail.com)
-
----
-
-### 🎬 Fun Fact
-
-> I choreograph Bharatanatyam sequences while ideating machine learning workflows 🤯  
-> Code by day, Classical dance by night 💃🤖
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https:/www.linkedin.com/in/manasvi-deshmukh-0b4130256)  
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manasvideshmukh2303@gmail.com)
 
 ---
 

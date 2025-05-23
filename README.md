@@ -8,7 +8,7 @@
 ---
 - 🖥 AI Engineer sharing about my journey and learnings in tech.
 - 🏫 Studying Computer Science at MITWPU, Pune.
-- 💭 Currently learning about data analytics, Agentic AI and Copilot Integration in code.
+- 💭 Currently learning about Data Analytics, Agentic AI and Copilot Integration in code.
   
 ---
    <p align="left">
@@ -55,7 +55,7 @@
 
 > “True elegance lies in clarity of purpose, timeless work, and quiet brilliance.”
 
-- 🎓 AI for **sustainability, space & security**
+- 🎓 AI for **sustainability, healthcare, space & security**
 - 🧠 Advocate for **ethical, meaningful technology**
 - 🩰 Bridging **logic and rhythm** — from ML pipelines to classical choreography
 - 👩‍🏫 Mentorship, leadership, and **research excellence** are my guiding forces.

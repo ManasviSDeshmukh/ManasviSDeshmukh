@@ -22,15 +22,7 @@
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ManasviSDeshmukh?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
----
 
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ManasviSDeshmukh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ManasviSDeshmukh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
 
 ---
 ### 🔭 Signature Projects
